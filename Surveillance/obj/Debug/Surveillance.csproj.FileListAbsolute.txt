@@ -1,0 +1,10 @@
+C:\Users\MURAM\source\repos\Surveillance\Surveillance\bin\Debug\Surveillance.exe.config
+C:\Users\MURAM\source\repos\Surveillance\Surveillance\bin\Debug\Surveillance.exe
+C:\Users\MURAM\source\repos\Surveillance\Surveillance\bin\Debug\Surveillance.pdb
+C:\Users\MURAM\source\repos\Surveillance\Surveillance\obj\Debug\Surveillance.csprojAssemblyReference.cache
+C:\Users\MURAM\source\repos\Surveillance\Surveillance\obj\Debug\Surveillance.Form1.resources
+C:\Users\MURAM\source\repos\Surveillance\Surveillance\obj\Debug\Surveillance.Properties.Resources.resources
+C:\Users\MURAM\source\repos\Surveillance\Surveillance\obj\Debug\Surveillance.csproj.GenerateResource.cache
+C:\Users\MURAM\source\repos\Surveillance\Surveillance\obj\Debug\Surveillance.csproj.CoreCompileInputs.cache
+C:\Users\MURAM\source\repos\Surveillance\Surveillance\obj\Debug\Surveillance.exe
+C:\Users\MURAM\source\repos\Surveillance\Surveillance\obj\Debug\Surveillance.pdb
